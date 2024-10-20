@@ -1,2 +1,2 @@
-# Backend Development
-This branch is for server-side logic and API development.
+# Blockchain Development
+This branch is for blockchain and smart contract development.
