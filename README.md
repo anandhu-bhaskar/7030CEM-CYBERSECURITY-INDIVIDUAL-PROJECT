@@ -1,2 +1,2 @@
-# Academic Documentation
-This branch contains academic reports, proposals, and literature reviews.
+# Prototype Documentation
+This branch contains prototype-related documentation.
