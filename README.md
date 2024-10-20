@@ -1,2 +1,2 @@
-# Blockchain Development
-This branch is for blockchain and smart contract development.
+# Academic Documentation
+This branch contains academic reports, proposals, and literature reviews.
