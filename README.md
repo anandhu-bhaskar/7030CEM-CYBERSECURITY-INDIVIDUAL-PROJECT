@@ -1,2 +1,2 @@
-# Prototype Documentation
-This branch contains prototype-related documentation.
+# Meeting Notes
+This branch contains notes from meetings with the supervisor.
