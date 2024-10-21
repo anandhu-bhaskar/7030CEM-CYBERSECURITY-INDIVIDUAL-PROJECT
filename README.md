@@ -1,2 +1,2 @@
-# Meeting Notes
-This branch contains notes from meetings with the supervisor.
+# Frontend Development - Dev Branch
+This branch is for developing and testing frontend features.
